@@ -10,4 +10,4 @@
 - [如何去掉字符串中的空格？](https://github.com/ayuan888/history/issues/8)
 - [HTML有哪些全局属性](https://github.com/ayuan888/history/issues/9)
 - [CSS哪些属性可以继承](https://github.com/ayuan888/history/issues/10)
-- [去除字符串中最后一个指定的字符](https://github.com/ayuan888/history/issues/11)
+- [如何去除字符串中最后一个指定的字符](https://github.com/ayuan888/history/issues/11)
